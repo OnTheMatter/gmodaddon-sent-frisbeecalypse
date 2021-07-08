@@ -1,0 +1,11 @@
+{
+	"title"		:	"Frisbeecalypse",
+	"type"		:	"entity",
+	"tags"		:	[ "fun"],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
